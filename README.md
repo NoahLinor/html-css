@@ -1,2 +1,2 @@
 # html-css
- aprendendo html na facudade
+ aprendendo html na faculdade
